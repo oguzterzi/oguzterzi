@@ -22,7 +22,7 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzterzi&layout=compact)
+![oguzterzi's Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzterzi&layout=compact)
 
 [instagram]: https://instagram.com/oguzterzi11
 [discord]: https://discord.gg/vUf5maDNGw
