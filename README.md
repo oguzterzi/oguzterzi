@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="300px" height="200px">
- Hi there 👋, It's Oğuz Terzi
+
+ ### Hi there 👋, It's Oğuz Terzi
 
 - 🏫 I'm studying at Pendik Yunus Emre Vocational and Technical Anatolian High School.
 - 🔭 I’m currently working on BT Bilgi
