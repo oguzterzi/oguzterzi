@@ -15,9 +15,9 @@
 
 
 ### Languages 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" float="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px" float="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px" float="left">
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/html5.svg" padding-left="10px" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/css3.svg" padding-left="10px" />
 
 </br>
 
