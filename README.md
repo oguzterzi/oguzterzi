@@ -8,7 +8,7 @@
 
 ### Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" "&nbsp;"/>][instagram]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"/>][instagram] &nbsp;
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" padding-left="10px" />][discord]
 
 </br>
