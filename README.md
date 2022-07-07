@@ -17,7 +17,7 @@
 
 </br>
 
-<img src="![oguzterzi's Github Stats](https://github-readme-stats.vercel.app/api?username=oguzterzi&theme=radical) width:400px"> &nbsp; ![oguzterzi's Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzterzi&layout=compact&theme=radical)
+[oguzterzi's Github Stats](https://github-readme-stats.vercel.app/api?username=oguzterzi&theme=radical) &nbsp; ![oguzterzi's Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzterzi&layout=compact&theme=radical)
 
 [instagram]: https://instagram.com/oguzterzi11
 [discord]: https://discord.gg/vUf5maDNGw
