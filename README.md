@@ -13,7 +13,7 @@
 
 
 ### Languages 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px"> &nbsp; <img src="https://user-images.githubusercontent.com/90323931/179482150-ab0337c9-4b83-44e5-a51e-a39c9dd6dd59.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px"> &nbsp; <img src="https://user-images.githubusercontent.com/90323931/179482411-907fb802-ff4b-4b9c-86f0-6d082e6e05bc.png" width="30px">
 
 </br>
 
