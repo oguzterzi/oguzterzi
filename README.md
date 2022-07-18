@@ -13,7 +13,7 @@
 
 
 ### Languages 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px"> &nbsp; <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F594%2F1*ymVNbsdd7KxHXHC4-LP7kw.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40mustafakasmis%2Fc-ile-programlama-1-ders-c-nedir-adb9d9801210&tbnid=ADRf0r1fiqxpFM&vet=12ahUKEwiDmc2ajoL5AhVKxKQKHZm9Cv0QMygBegUIARCQAQ..i&docid=F1ECZlL7z6eJaM&w=594&h=594&itg=1&q=c%23&ved=2ahUKEwiDmc2ajoL5AhVKxKQKHZm9Cv0QMygBegUIARCQAQ" width="30px">
 
 </br>
 
