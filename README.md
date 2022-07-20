@@ -10,7 +10,7 @@
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"/>][instagram] &nbsp;
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" padding-left="10px" />][discord] &nbsp;
-<a href="mailto:oguz.terzi.460@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adematicis41@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:oguz.terzi.460@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oguz.terzi.460@gmail.com-blue?style=flat&logo=gmail"></a>
 
 
 ### Languages 
