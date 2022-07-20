@@ -9,7 +9,7 @@
 ### Reach out to me
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"/>][instagram] &nbsp;
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" padding-left="10px" />][discord]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" padding-left="10px" />][discord] &nbsp;
 [<img height="32" width="32" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw">][gmail]
 
 
