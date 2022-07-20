@@ -10,6 +10,7 @@
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"/>][instagram] &nbsp;
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" padding-left="10px" />][discord]
+[<img height="32" width="32" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FKSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.google.android.gm%26hl%3Dtr%26gl%3DUS&tbnid=p0BwJ0uiMmavoM&vet=12ahUKEwj42N6WlIj5AhXY_bsIHfiNDAsQMygAegUIARC5AQ..i&docid=EsBEqyVOjwn9LM&w=512&h=512&q=gmail&ved=2ahUKEwj42N6WlIj5AhXY_bsIHfiNDAsQMygAegUIARC5AQ">][gmail]
 
 
 ### Languages 
@@ -21,3 +22,4 @@
 
 [instagram]: https://instagram.com/oguzterzi11
 [discord]: https://discord.gg/W8HUqDCWae
+[gmail]: oguz.terzi.460@gmail.com
