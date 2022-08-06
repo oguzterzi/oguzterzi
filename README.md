@@ -10,7 +10,7 @@
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"/>][instagram] &nbsp;
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" padding-left="10px" />][discord] &nbsp;
-<a href="mailto:oguz.terzi.460@gmail.com"> <img height="32" width="32" src="https://cdn.discordapp.com/attachments/1000687769057771531/1000688700373606470/mail.png"/>
+<a href="mailto:oguz.terzi.460@gmail.com"> <img height="32" width="32" src="https://cdn.discordapp.com/attachments/1000687769057771531/1000688700373606470/mail.png"/> &nbsp; [<img height="32" width="32" src="https://cdn.discordapp.com/attachments/1000687769057771531/1005510040515522633/LinkedIn.jpg"/>][linkedin]
 
 
 ### Languages
@@ -22,3 +22,4 @@
 
 [instagram]: https://instagram.com/oguzterzi11
 [discord]: https://discord.gg/W8HUqDCWae
+[linkedin]: https://www.linkedin.com/in/oguzterzi/
