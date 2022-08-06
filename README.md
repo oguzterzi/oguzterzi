@@ -18,7 +18,12 @@
 
 </br>
 
+<h2 align="center">oguzterzi's Github Stats</h2>
+<p align="center">
+
 ![oguzterzi's Github Stats](https://github-readme-stats.vercel.app/api?username=oguzterzi&theme=radical) &nbsp; ![oguzterzi's Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzterzi&layout=compact&theme=radical)
+
+</p>
 
 [instagram]: https://instagram.com/oguzterzi11
 [discord]: https://discord.gg/W8HUqDCWae
