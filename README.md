@@ -10,7 +10,7 @@
 
 <a href="mailto:oguz.terzi.460@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oguz.terzi.460@gmail.com-blue?style=flat&logo=gmail"></a> &nbsp;
 <a href="https://www.linkedin.com/in/oguzterzi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@oguzterzi-blue?style=flat&logo=linkedin"></a> &nbsp;
-<a href="https://discord.gg/W8HUqDCWae" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-discord-blue?style=flat&logo=discord"></a> &nbsp;
+<a href="https://discord.gg/W8HUqDCWae" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-oguzterzi-blue?style=flat&logo=discord"></a> &nbsp;
 
 
 ### Languages
