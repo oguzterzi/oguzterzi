@@ -4,7 +4,7 @@
 
 <!-- - 🏫 I'm studying at Pendik Yunus Emre Vocational and Technical Anatolian High School. --->
 <!-- - 🔭 I’m currently working on BT Bilgi --->
-- 🌱 I’m currently learning ASP.NET MVC, C#, JavaScript...
+- 🌱 I’m currently learning ASP.NET MVC, C#, JavaScript, HTML, CSS...
 
 ### Reach out to me
 
