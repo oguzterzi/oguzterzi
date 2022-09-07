@@ -8,9 +8,9 @@
 
 ### Reach out to me
 
-[<img height="32" width="32" src="https://cdn.discordapp.com/attachments/1000687769057771531/1017118127064109177/unknown.png"/>][instagram] &nbsp;
-[<img height="32" width="32" src="https://cdn.discordapp.com/attachments/1000687769057771531/1017118290344169482/unknown.png" padding-left="10px" />][discord] &nbsp;
-<a href="mailto:oguz.terzi.460@gmail.com"> <img height="32" width="32" src="https://cdn.discordapp.com/attachments/1000687769057771531/1000688700373606470/mail.png"/> &nbsp; [<img height="30" width="30" margin-left="10" src="https://cdn.discordapp.com/attachments/1000687769057771531/1005512197050466366/unknown.png"/>][linkedin]
+<a href="mailto:oguz.terzi.460@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oguz.terzi.460@gmail.com-blue?style=flat&logo=gmail"></a> &nbsp;
+<a href="https://www.linkedin.com/in/oguzterzi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@oguzterzi-blue?style=flat&logo=linkedin"></a> &nbsp;
+<a href="https://discord.gg/W8HUqDCWae" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-discord-blue?style=flat&logo=discord"></a> &nbsp;
 
 
 ### Languages
