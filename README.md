@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="300px" height="200px">
+<!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="300px" height="200px"> --->
 
  ### Hi there 👋, It's Oğuz Terzi
 
