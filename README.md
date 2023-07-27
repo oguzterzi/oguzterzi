@@ -14,7 +14,7 @@
 
 
 ### Languages
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px"> &nbsp; <img src="https://cdn.discordapp.com/attachments/1000687769057771531/1000688718505578496/c.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px"> &nbsp; <img src="https://cdn.discordapp.com/attachments/1000687769057771531/1000688718505578496/c.png" width="30px"> &nbsp; <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30"/>
 
 </br>
 
