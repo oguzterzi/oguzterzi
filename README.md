@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Oğuz Terzi!
 
-Welcome to my GitHub profile! I'm a **versatile developer** who loves turning ideas into functional and visually appealing software. I enjoy exploring new technologies and continuously improving my skills.  
+Welcome to my GitHub profile! I'm a **mid-level Full Stack Developer** who loves turning ideas into functional and visually appealing software. I have experience in both **frontend** and **backend** development and continuously work on enhancing my skills. Exploring new technologies and improving with every project is what drives me.    
 
 ---
 
